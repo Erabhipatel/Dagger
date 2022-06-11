@@ -22,6 +22,5 @@ public class MainActivity extends AppCompatActivity {
         carComponent.inject(this);
 
         car.drive();
-        //fourth commit
     }
 }
