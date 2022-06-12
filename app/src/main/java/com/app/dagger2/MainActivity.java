@@ -22,5 +22,7 @@ public class MainActivity extends AppCompatActivity {
         carComponent.inject(this);
 
         car.drive();
+
+        System.out.println("Experiment commit");
     }
 }
