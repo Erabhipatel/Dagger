@@ -25,5 +25,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Experiment commit");
         System.out.println("Changes 2");
+        System.out.println("Hello from your friend");
     }
 }
