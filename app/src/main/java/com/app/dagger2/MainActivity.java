@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
         car.drive();
 
         System.out.println("Experiment commit");
-        System.out.println("Changes 1");
+        System.out.println("Changes 2");
     }
 }
